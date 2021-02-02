@@ -12,7 +12,7 @@
 	            <a class="nav-link active" href="index.php"><i class="fa fa-home"></i> Accueil <span class="sr-only"></span></a>
 	        </li>
 	        <li class="nav-item">
-	            <a class="nav-link" href="javascript:void(0);"><i class="fa fa-tag"></i> Trocs</a>
+	            <a class="nav-link" href="news.php"><i class="fa fa-tag"></i> Voir nos Trocs</a>
 	        </li>
 	        <li class="nav-item">
 	            <a class="nav-link" href="list.php"><i class="fa fa-group"></i> Utilisateur</a>
