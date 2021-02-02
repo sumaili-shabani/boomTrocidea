@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-md navbar-light fixed-top bg-primary">
+<nav class="navbar navbar-expand-md navbar-light fixed-top bg-warning">
     <a class="navbar-brand" href="#"><img src="assets/images/icones/cat-img-5.jpg" class="responsive img-responsive img-thumbnail" style="width: 50px; height: 40px;"> 
         <!-- <span style="color: rgb(204, 205, 207); font-size: 16px;"><font class="text-warning">Boom</font><font class="text-info">social</font><font class="text-success">idea</font></span> -->
     </a>
@@ -12,7 +12,7 @@
 	            <a class="nav-link active" href="index.php"><i class="fa fa-home"></i> Accueil <span class="sr-only"></span></a>
 	        </li>
 	        <li class="nav-item">
-	            <a class="nav-link" href="javascript:void(0);"><i class="fa fa-tag"></i> Trocs</a>
+	            <a class="nav-link" href="news.php"><i class="fa fa-tag"></i> Voir nos Trocs</a>
 	        </li>
 	        <li class="nav-item">
 	            <a class="nav-link" href="list.php"><i class="fa fa-group"></i> Utilisateur</a>

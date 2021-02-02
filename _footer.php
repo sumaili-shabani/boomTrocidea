@@ -1,4 +1,4 @@
-<footer class="col-md-12 bg-primary">
+<footer class="col-md-12 bg-warning">
     <div class="col-md-12">
         <div class="row">
             <div class="col-md-4" style="margin-top: 10px;">
