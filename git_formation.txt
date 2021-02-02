@@ -3,3 +3,5 @@ git config --global user.email "patrona@gmail.com"
 git init
 git add .
 git status
+
+git log
