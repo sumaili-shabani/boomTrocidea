@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-md navbar-light fixed-top bg-primary">
+<nav class="navbar navbar-expand-md navbar-light fixed-top bg-warning">
     <a class="navbar-brand" href="#"><img src="assets/images/icones/cat-img-5.jpg" class="responsive img-responsive img-thumbnail" style="width: 50px; height: 40px;"> 
         <!-- <span style="color: rgb(204, 205, 207); font-size: 16px;"><font class="text-warning">Boom</font><font class="text-info">social</font><font class="text-success">idea</font></span> -->
     </a>
